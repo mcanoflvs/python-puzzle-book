@@ -3,7 +3,7 @@ import sys
 
 pygame.init()
 
-# Set constants
+# Set constants 
 WIDTH, HEIGHT = 800, 600
 FPS = 60
 PADDLE_WIDTH = 5
